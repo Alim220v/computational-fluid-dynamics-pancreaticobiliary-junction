@@ -2,7 +2,7 @@
 
 This repository contains the correctly formatted version of my Master's thesis:
 
-**“Computational Fluid Dynamics in the Pancreaticobiliary Junction”**
+**“Computational Fluid Dynamics in the Pancreaticobiliary Junction”** (April, 2024)
 
 ## Abstract
 
